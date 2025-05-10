@@ -18,6 +18,7 @@ export default function Home() {
         setUkuran(ukuran-10)
       }} >KUrang</button>
       <Link href="biodata">ccc</Link>
+      <Link href="biodata">ccc</Link>
     </div>
   );
 }
